@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "transaction_id": "T4283",
+      "customer_id": "C719",
+      "timestamp": "2025-03-24T08:12:45.392174",
+      "amount": 156.92,
+      "store_id": "S007",
+      "payment_method": "CREDIT",
+      "items_count": 5
+    },
+    {
+      "transaction_id": "T4283",
+      "customer_id": "C719",
+      "timestamp": "2025-01-18T15:42:19.581246",
+      "amount": 156.92,
+      "store_id": "S005",
+      "payment_method": "CREDIT",
+      "items_count": 5
+    },
+    {
+      "transaction_id": "T6492",
+      "customer_id": "C235",
+      "timestamp": "2025-03-02T09:17:33.294018",
+      "amount": 213.45,
+      "store_id": "S003",
+      "payment_method": "CASH",
+      "items_count": 2
+    },
+    {
+      "transaction_id": "T1875",
+      "customer_id": "C461",
+      "timestamp": "2025-11-09T12:36:45.790123",
+      "amount": 387.27,
+      "store_id": "S005",
+      "payment_method": "DEBIT",
+      "items_count": 8
+    },
+    {
+      "transaction_id": "T3672",
+      "customer_id": "C192",
+      "timestamp": "2025-01-27T18:21:08.471236",
+      "amount": 85.33,
+      "store_id": "S002",
+      "payment_method": "MOBILE_PAY",
+      "items_count": 0
+    },
+    {
+      "transaction_id": "T5921",
+      "customer_id": "C387",
+      "timestamp": "2025-06-04T14:53:27.635198",
+      "amount": 429.78,
+      "store_id": "S001",
+      "payment_method": "GIFT_CARD",
+      "items_count": 3
+    },
+    {
+      "transaction_id": "T2394",
+      "customer_id": "C824",
+      "timestamp": "2025-03-28T10:41:56.382741",
+      "amount": 612.54,
+      "store_id": "S004",
+      "payment_method": "CRYPTO",
+      "items_count": 12
+    },
+    {
+      "transaction_id": "T7846",
+      "customer_id": "C513",
+      "timestamp": "2025-02-04T16:29:37.946123",
+      "amount": 104.69,
+      "store_id": "S002",
+      "payment_method": "DEBIT",
+      "items_count": 1
+    }
+  ]
+}

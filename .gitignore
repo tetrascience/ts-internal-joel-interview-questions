@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*-solution.py
+*-test.py
+INTERVIEW_GUIDE.md
+SCHEMA_EVOLUTION.md
+

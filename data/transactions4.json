@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "transaction_id": "T8716",
+      "customer_id": "C719",
+      "timestamp": "2025-12-07T15:42:19.581246",
+      "amount": 300.69,
+      "tax": 28.06,
+      "store_id": "S007",
+      "payment_method": "CREDIT",
+      "items": [
+        {"item_id": "I3827", "name": "Wireless Headphones", "price": 79.99, "quantity": 1},
+        {"item_id": "I1294", "name": "Smart Watch", "price": 149.99, "quantity": 1},
+        {"item_id": "I5673", "name": "USB Cable", "price": 12.99, "quantity": 1},
+        {"item_id": "I9021", "name": "Screen Protector", "price": 19.99, "quantity": 1},
+        {"item_id": "I4230", "name": "Phone Case", "price": 24.99, "quantity": 1}
+      ]
+    },
+    {
+      "transaction_id": "T3925",
+      "customer_id": "C235",
+      "timestamp": "2025-11-02T09:17:33.294018",
+      "amount": 86.57,
+      "tax": 8.92,
+      "store_id": "S003",
+      "payment_method": "CASH",
+      "items": [
+        {"item_id": "I7654", "name": "Coffee Mug", "price": 15.49, "quantity": 1},
+        {"item_id": "I8932", "name": "Notebook Set", "price": 80.00, "quantity": 1}
+      ]
+    },
+    {
+      "transaction_id": "T5104",
+      "customer_id": "C461",
+      "timestamp": "2025-05-05T12:36:45.790123",
+      "amount": 544.44,
+      "tax": 56.48,
+      "store_id": "S005",
+      "payment_method": "DEBIT",
+      "items": [
+        {"item_id": "I2345", "name": "Desk Lamp", "price": 35.99, "quantity": 1},
+        {"item_id": "I6789", "name": "Office Chair", "price": 199.99, "quantity": 1},
+        {"item_id": "I3456", "name": "Keyboard", "price": 69.99, "quantity": 1},
+        {"item_id": "I5678", "name": "Mouse", "price": 24.99, "quantity": 1},
+        {"item_id": "I8901", "name": "Monitor", "price": 149.99, "quantity": 1},
+        {"item_id": "I1123", "name": "Desk Mat", "price": 19.99, "quantity": 1},
+        {"item_id": "I4567", "name": "Headset", "price": 39.99, "quantity": 1},
+        {"item_id": "I7890", "name": "Webcam", "price": 59.99, "quantity": 1}
+      ]
+    },
+    {
+      "transaction_id": "T9247",
+      "customer_id": "C192",
+      "timestamp": "2025-01-21T18:21:08.471236",
+      "amount": 117.00,
+      "tax": 12.99,
+      "store_id": "S002",
+      "payment_method": "MOBILE_PAY",
+      "items": [
+        {"item_id": "I5432", "name": "Wireless Speaker", "price": 129.99, "quantity": 1}
+      ]
+    },
+    {
+      "transaction_id": "T6583",
+      "customer_id": "C387",
+      "timestamp": "2025-03-02T14:53:27.635198",
+      "amount": 231.48,
+      "tax": 25.00,
+      "store_id": "S001",
+      "payment_method": "GIFT_CARD",
+      "items": [
+        {"item_id": "I2468", "name": "Premium Coffee", "price": 45.99, "quantity": 1},
+        {"item_id": "I1357", "name": "Gift Box", "price": 120.50, "quantity": 1},
+        {"item_id": "I9876", "name": "Chocolate Assortment", "price": 89.99, "quantity": 1}
+      ]
+    },
+    {
+      "transaction_id": "T4019",
+      "customer_id": "C824",
+      "timestamp": "2025-07-29T10:41:56.382741",
+      "amount": 739.68,
+      "tax": 75.25,
+      "store_id": "S004",
+      "payment_method": "CRYPTO",
+      "items": [
+        {"item_id": "I1111", "name": "Smartphone", "price": 599.99, "quantity": 1},
+        {"item_id": "I2222", "name": "Phone Charger", "price": 29.99, "quantity": 1},
+        {"item_id": "I3333", "name": "Earbuds", "price": 89.99, "quantity": 1},
+        {"item_id": "I4444", "name": "Power Bank", "price": 49.99, "quantity": 1},
+        {"item_id": "I5555", "name": "Screen Cleaner", "price": 4.99, "quantity": 1},
+        {"item_id": "I6666", "name": "Memory Card", "price": 24.99, "quantity": 1},
+        {"item_id": "I7777", "name": "Bluetooth Adapter", "price": 14.99, "quantity": 1}
+      ]
+    },
+    {
+      "transaction_id": "T1352",
+      "customer_id": "C513",
+      "timestamp": "2025-07-14T16:29:37.946123",
+      "amount": 67.75,
+      "tax": 7.50,
+      "store_id": "S002",
+      "payment_method": "DEBIT",
+      "items": [
+        {"item_id": "I8765", "name": "Premium Water Bottle", "price": 75.25, "quantity": 1}
+      ]
+    }
+  ]
+}
